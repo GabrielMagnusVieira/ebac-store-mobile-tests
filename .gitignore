@@ -1,6 +1,4 @@
 node_modules/
-node_modules/
 app/ebacshop.apks
-# Ignorar pasta app e arquivos .apks
 app/
 *.apks
